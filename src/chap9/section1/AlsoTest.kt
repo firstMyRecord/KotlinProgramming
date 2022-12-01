@@ -1,5 +1,7 @@
 package chap9.section1
 
+import java.io.File
+
 fun main(){
     data class Person(var name : String, var skill : String)
     var person = Person("kildong", "Kotlin")
@@ -16,4 +18,5 @@ fun main(){
     println(person)
     println("b : $b")
 }
+
 
