@@ -1,4 +1,7 @@
-# Kotlin 
+# 개발 환경
+* OS : macOS
+* 개발 툴 : intelliJ IDEA
+* 언어 : Kotlin
 # 참고서 : Do it! 코틀린 프로그래밍
 * 저자: 황영덕
 * 출판사 : 이지스퍼블리싱
